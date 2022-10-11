@@ -5,7 +5,7 @@ I'm a student of CQU in China, major in CS 👨‍🎓.
 - 🔭 I’m currently working on **graphical neural network** reserach
 - 🌱 I’m currently learning Java backend development
 - ❤️ I'm interested in **machine learning**, **data science**, **big data**, **web development**
-- 🤔 I’m trying to focus on contributing to open source project
+- 🤔 I’m trying to focus on contributing to open source projects
 - 👨‍💻 I want to be a full stack engineer for now
 
 # Find me around the web 🌎
