@@ -2,11 +2,10 @@
 
 I'm a student of CQU in China, major in CS 👨‍🎓.  
 
-- 🔭 I’m currently working on **graphical neural network** reserach
-- 🌱 I’m currently learning Java backend development
-- ❤️ I'm interested in **machine learning**, **data science**, **big data**, **web development**
-- 🤔 I’m trying to focus on contributing to open source projects
-- 👨‍💻 I want to be a full stack engineer for now
+- ⚡ Focusing: Open-source projects
+- ❤️ Interests: Machine Learning, Data Science, Big Data
+- 🔭 Researching: Graphical neural network
+- 🌱 Learning: Data mining, Java backend development
 
 # Find me around the web 🌎
 
