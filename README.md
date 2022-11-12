@@ -12,6 +12,11 @@ I'm a student of CQU in China, major in CS 👨‍🎓.
 - Email @wx01290804@163.com
 - Blog [https://blog.csdn.net/destiny_balabala](https://blog.csdn.net/destiny_balabala) (chinese posts)
 
+![zadarmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=zadarmo&show_icons=true&theme=transparent)  
+![zadarmo's CSDN stats](https://stats.justsong.cn/api/csdn?id=destiny_balabala)
+
+
+
 <!--
 **zadarmo/zadarmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
