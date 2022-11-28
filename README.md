@@ -12,9 +12,7 @@ I'm a student of CQU in China, major in CS 👨‍🎓.
 - Email @wx01290804@163.com
 - Blog [https://blog.csdn.net/destiny_balabala](https://blog.csdn.net/destiny_balabala) (chinese posts)
 
-![zadarmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=zadarmo&show_icons=true&theme=transparent) <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"></img>
-
-<img src="https://stats.justsong.cn/api/csdn?id=destiny_balabala"></img>
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=zadarmo&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zadarmo&hide_title=true&hide_border=true&layout=compact&bg_color=0&theme=graywhite&locale=cn" />
 
 <!--
 **zadarmo/zadarmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
