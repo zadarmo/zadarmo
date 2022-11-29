@@ -9,8 +9,9 @@ I'm a student of CQU in China, major in CS 👨‍🎓.
 
 # Find me around the web 🌎
 
+- Blog [https://zadarmo.github.io/](https://zadarmo.github.io)（chinese posts）
+- CSDN [https://blog.csdn.net/destiny_balabala](https://blog.csdn.net/destiny_balabala) (chinese posts)
 - Email @wx01290804@163.com
-- Blog [https://blog.csdn.net/destiny_balabala](https://blog.csdn.net/destiny_balabala) (chinese posts)
 
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=zadarmo&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0&theme=graywhite&locale=en" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zadarmo&hide_title=true&hide_border=true&layout=compact&bg_color=0&theme=graywhite&locale=en" />
 
