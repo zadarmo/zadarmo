@@ -21,7 +21,7 @@ I'm a student of CQU in China, major in CS 👨‍🎓.
 |---|---|
 |[vced](https://github.com/datawhalechina/vced)|A open-source tutorial of Datawahle for cross-modal technology.|
 |[server_connector](https://github.com/zadarmo/server-connector)|A simple tool for developers to perform operations on server with just a few line of codes.|
-|[mvc-sa](https://github.com/zadarmo/server-connector)|2022 年重庆大学《大数据架构与技术》课程大作业|
+|[mvc-sa](https://github.com/zadarmo/mvc-sa)|2022 年重庆大学《大数据架构与技术》课程大作业|
 |[cqu-cs-teacher-crawler](https://github.com/zadarmo/cqu-cs-teacher-crawler)|重庆大学计算机导师信息爬虫程序|
 
 <!--
