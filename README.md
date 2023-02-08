@@ -4,8 +4,8 @@ I'm a student of CQU in China, major in CS 👨‍🎓.
 
 - ⚡ Focusing: Open-source projects
 - ❤️ Interests: Machine Learning, Data Science, Big Data
-- 🔭 Researching: Graphical neural network
-- 🌱 Learning: Data mining, Java backend development
+- 🔭 Researching: Time Series, Spatial-temporal Data Mining, Graphical Neural Network
+- 🌱 Learning: Data mining, Java bigdata development
 
 ### Find me around the web 🌎
 
